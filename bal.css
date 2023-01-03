@@ -1,0 +1,14 @@
+span{
+    color: goldenrod;
+    font-size: larger;
+}
+.mal{
+    height: 600px;
+    text-align: center;
+   background-image: url(1.jpg);
+   background-size: 50%;
+   color: blue;
+   background-blend-mode:multiply;
+   background-color: aqua;
+   
+}
